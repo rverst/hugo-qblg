@@ -1,0 +1,12 @@
+name = "qblg"
+license = "MIT"
+licenselink = "https://github.com/rverst/qblg/blob/master/LICENSE"
+description = "Simple theme, mainly for my blog, build with Vanilla-JS (http://vanilla-js.com/) and UIkit (https://getuikit.com)"
+homepage = "https://verst.eu/"
+tags = []
+features = []
+min_version = "0.41"
+
+[author]
+  name = "Robert Verst (rverst)"
+  homepage = "https://verst.eu"
